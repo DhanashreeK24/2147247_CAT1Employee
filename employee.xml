@@ -1,0 +1,139 @@
+<?xml version = "1.0"?> 
+<?xml-stylesheet type = "text/xsl" href = "employee.xsl"?> 
+<company>
+	<employee id='1'>
+		<empid>1</empid>
+		<empname>Ayush Kumar</empname>
+		<empage>55</empage>
+		<empsal>50000</empsal>
+		<empmail>ayush.kumar@gmail.com</empmail>
+		<empphone>8821345689</empphone>
+		<empdesg>Manager</empdesg>
+	</employee>
+	<employee id='2'>
+		<empid>2</empid>
+		<empname>Aarohi</empname>
+		<empage>22</empage>
+		<empsal>55000</empsal>
+		<empmail>aarohi@gmail.com</empmail>
+		<empphone>8821345689</empphone>
+		<empdesg>CFO</empdesg>
+	</employee>
+	<employee id='3'>
+		<empid>3</empid>
+		<empname>Ragini</empname>
+		<empage>22</empage>
+		<empsal>60000</empsal>
+		<empmail>ragini@gmail.com</empmail>
+		<empphone>8821345689</empphone>
+		<empdesg>Junior Manager</empdesg>
+		<promotion></promotion>
+	</employee>
+	<employee id='4'>
+		<empid>4</empid>
+		<empname>gyan</empname>
+		<empage>27</empage>
+		<empsal>75000</empsal>
+		<empmail>gyan@gmail.com</empmail>
+		<empphone>9876543210</empphone>
+		<empdesg>Branch Manager</empdesg>
+	</employee>
+	<employee id='5'>
+		<empid>5</empid>
+		<empname>niharika</empname>
+		<empage>30</empage>
+		<empsal>80000</empsal>
+		<empmail>niharika@gmail.com</empmail>
+		<empphone>8821345689</empphone>
+		<empdesg>Senior Manager</empdesg>
+	</employee>
+	<employee id='6'>
+		<empid>6</empid>
+		<empname>jaspreet</empname>
+		<empage>34</empage>
+		<empsal>67000</empsal>
+		<empmail>jaspreet@gmail.com</empmail>
+		<empphone>8821345689</empphone>
+		<empdesg>Assistant Manager</empdesg>
+	</employee>
+	<employee id='7'>
+		<empid>7</empid>
+		<empname>pankaj</empname>
+		<empage>38</empage>
+		<empsal>78000</empsal>
+		<empmail>ragini@gmail.com</empmail>
+		<empphone>8821345689</empphone>
+		<empdesg>Section head</empdesg>
+		<promotion></promotion>
+	</employee>
+	<employee id='8'>
+		<empid>8</empid>
+		<empname>anagha</empname>
+		<empage>26</empage>
+		<empsal>85000</empsal>
+		<empmail>anagha@gmail.com</empmail>
+		<empphone>8821345689</empphone>
+		<empdesg>Supervisor</empdesg>
+
+	</employee>
+	<employee id='9'>
+		<empid>9</empid>
+		<empname>aniket</empname>
+		<empage>45</empage>
+		<empsal>200000</empsal>
+		<empmail>aniket@gmail.com</empmail>
+		<empphone>8821345689</empphone>
+		<empdesg>CEO</empdesg>
+		
+	</employee>
+	<employee id='10'>
+		<empid>10</empid>
+		<empname>parth</empname>
+		<empage>47</empage>
+		<empsal>100000</empsal>
+		<empmail>parth@gmail.com</empmail>
+		<empphone>88213379</empphone>
+		<empdesg>COO</empdesg>
+	
+	</employee>
+	<employee id='11'>
+		<empid>11</empid>
+		<empname>Rafiq</empname>
+		<empage>56</empage>
+		<empsal>150000</empsal>
+		<empmail>rafiq@gmail.com</empmail>
+		<empphone>88213379</empphone>
+		<empdesg>Vice president</empdesg>
+	
+	</employee>
+	<employee id='12'>
+		<empid>12</empid>
+		<empname>rahul</empname>
+		<empage>42</empage>
+		<empsal>120000</empsal>
+		<empmail>rahul@gmail.com</empmail>
+		<empphone>88213379</empphone>
+		<empdesg>president</empdesg>
+	
+	</employee>
+	<employee id='13'>
+		<empid>13</empid>
+		<empname>lalit</empname>
+		<empage>60</empage>
+		<empsal>200000</empsal>
+		<empmail>lalit@gmail.com</empmail>
+		<empphone>88213379</empphone>
+		<empdesg>COO</empdesg>
+	
+	</employee>
+	<employee id='14'>
+		<empid>14</empid>
+		<empname>roshan</empname>
+		<empage>37</empage>
+		<empsal>120000</empsal>
+		<empmail>roshan@gmail.com</empmail>
+		<empphone>88213379</empphone>
+		<empdesg>COO</empdesg>
+	
+	</employee>
+	</company>

@@ -1,0 +1,22 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="company">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="employee" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:byte" name="empid"/>
+              <xs:element type="xs:string" name="empname"/>
+              <xs:element type="xs:byte" name="empage"/>
+              <xs:element type="xs:int" name="empsal"/>
+              <xs:element type="xs:string" name="empmail"/>
+              <xs:element type="xs:long" name="empphone"/>
+              <xs:element type="xs:string" name="empdesg"/>
+              <xs:element type="xs:string" name="promotion"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
